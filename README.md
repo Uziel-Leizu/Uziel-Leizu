@@ -1,7 +1,21 @@
 ## Hi there 👋
 
+I'm a passionate programmer focused on game development with C# and Godot 3.5. 🎮 investing in new technologies and systems programming.
+
+- 👨‍💻 Programming languages I use the most...
+  -  Java
+  -  C#
+  -  Python
+  -  PHP
+  -  JavaScript / TypeScript
+  -  C++
+
+- 🔭 I’m currently working on ...
+  - I'm working on my final project for my degree—a game for tracking Alzheimer's. I'm always eager to learn and collaborate on exciting projects!
+- 👯 I’m looking to collaborate on ...
+  - A videogame project or something related.
+  - A Java project. I love java ☕
 <!--
-**Uziel-Leizu/Uziel-Leizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
